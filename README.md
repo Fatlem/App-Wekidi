@@ -27,7 +27,7 @@ Untuk menjalankan aplikasi ini di perangkat Anda, ikuti langkah-langkah berikut:
 
 1. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/username/app_produkwekidi.git
+   git clone https://github.com/username/https://github.com/Fatlem/App-Wekidi.git
    ```
 
 2. **Masuk ke direktori proyek**:
