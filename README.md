@@ -1,6 +1,3 @@
-Berikut adalah modifikasi README untuk aplikasi Anda, mengganti "burger" menjadi "produk" dan menambahkan fitur "history pembelian" dan "ongkir":
-
----
 
 # 💻 Produk Wekidi
 
