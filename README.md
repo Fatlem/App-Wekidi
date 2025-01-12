@@ -32,7 +32,7 @@ Untuk menjalankan aplikasi ini di perangkat Anda, ikuti langkah-langkah berikut:
 
 2. **Masuk ke direktori proyek**:
    ```bash
-   cd app_produkwekidi
+   cd App-Wekidi
    ```
 
 3. **Instal dependensi**:
